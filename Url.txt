@@ -1,19 +1,15 @@
 www.transfert-ratp.fr
 id.kyivcity.gov.ua
 testportal.gov.ua
-AES.NewCipher
-AES.newGCMWithNonceAndTagSize
 wagnercentr.ru
 www.ratp.fr
 m2e.fr
 wagner2022.ru
 Sekoia.io
-others.The
 mutuelleratp.fr
 www.ratp-m2e.fr
 ratp.fr
 www.cgt-ratp.fr
 zno.testportal.com.ua
-40gmail.com
 e-journal.iea.gov.ua
 
